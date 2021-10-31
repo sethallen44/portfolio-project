@@ -1,0 +1,56 @@
+/*center texts*/
+.align-center{
+    text-align: center;
+}
+/*center images*/
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+/*makes a box*/
+.box{
+    width: 500px;
+    background:steelblue;
+    padding: 20px;
+    border: 5px solid black;
+    margin: auto;
+}
+/*border for the box*/
+.border-box {
+    box-sizing: border-box;
+  }
+
+footer{
+    background-color:steelblue;
+    color:black;
+}
+header{
+    font-family:fantasy;
+    color:rgb(0, 0, 0);
+    background-color:steelblue ;
+}
+body{
+    background-color:wheat;
+}
+main{
+    font-family: fantasy;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+hr{
+    height: 35px;
+    background-color: white;
+}
+li{
+    font-size: 20px;
+}
+a:link {color: lightblue;}
+a:visited {color: midnightblue;}
+a:hover {color: tomato;}
+a:active {color: white;}
